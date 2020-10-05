@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=D2:96:40:9C:4D:E1:2C:54:E6:FB:57:78:13:06:BB:C6:57:C4:8B:BD%3Bdiplaras.marine.diplarasvesselalert
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    diplaras.marine.diplarasvesselalert
+
+    SHA-1 certificate fingerprint:
+    D2:96:40:9C:4D:E1:2C:54:E6:FB:57:78:13:06:BB:C6:57:C4:8B:BD
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAQsbYZ7RaqwX0CwHeP9ezHsTCKVpiNIc4</string>
+</resources>

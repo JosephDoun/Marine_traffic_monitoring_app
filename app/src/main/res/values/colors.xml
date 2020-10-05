@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#101050</color>
+    <color name="colorPrimaryDark">#101010</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="barColor">#202020</color>
+    <color name="cardColor">#EEEEEE</color>
+</resources>
