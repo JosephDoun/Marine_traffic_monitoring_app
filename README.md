@@ -7,3 +7,4 @@ Work in progress - pre-alpha
 Preview:
 
 <img src="https://github.com/JosefDoun/Marine_traffic_monitoring_app/blob/master/Screenshot_1602449592.png" width=200>
+<img src="https://github.com/JosefDoun/Marine_traffic_monitoring_app/blob/master/Screenshot_1602795365.png" width=200>
