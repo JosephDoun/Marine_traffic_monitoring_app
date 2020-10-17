@@ -3,8 +3,7 @@ A marine traffic monitoring application utilizing data from VesselFinder.com, fr
 
 Work in progress - pre-alpha
 
+This project was developed within the scope of CS50x of Harvardx
+https://youtu.be/LudOVsACsh4
 
-Preview:
-
-<img src="https://github.com/JosefDoun/Marine_traffic_monitoring_app/blob/master/Screenshot_1602449592.png" width=200>
-<img src="https://github.com/JosefDoun/Marine_traffic_monitoring_app/blob/master/Screenshot_1602795365.png" width=200>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LudOVsACsh4E/0.jpg)](https://www.youtube.com/watch?v=LudOVsACsh4)]
