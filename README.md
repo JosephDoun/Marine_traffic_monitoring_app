@@ -1,9 +1,9 @@
 # Marine_traffic_monitoring_app
-A marine traffic monitoring application utilizing data from VesselFinder.com, from the perspective of land. It is aimed to assist port workers by providing accessible information of interest.
+A marine traffic monitoring application utilizing data from VesselFinder.com, from the perspective of land. It is aimed to assist port workers by providing easily accessible information of interest.
 
-Work in progress - pre-alpha
+Work in progress - alpha
 
-This project was developed within the scope of CS50x of Harvardx
-https://youtu.be/LudOVsACsh4
+This project was developed within the scope of getting certified by HarvardX for CS50x
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LudOVsACsh4E/0.jpg)](https://www.youtube.com/watch?v=LudOVsACsh4)]
+Click image to be redirected to brief presentation
+[!["Presentation:"](http://img.youtube.com/vi/LudOVsACsh4/0.jpg)](http://www.youtube.com/watch?v=LudOVsACsh4 "Port Observer Presentation")
