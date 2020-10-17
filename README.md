@@ -5,5 +5,6 @@ Work in progress - alpha
 
 This project was developed within the scope of getting certified by HarvardX for CS50x
 
-Click image to be redirected to brief presentation
+Click following thumbnail to be redirected to brief presentation on Youtube.
+
 [!["Presentation:"](http://img.youtube.com/vi/LudOVsACsh4/0.jpg)](http://www.youtube.com/watch?v=LudOVsACsh4 "Port Observer Presentation")
